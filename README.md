@@ -1,33 +1,48 @@
-<h1>
-    Rafael Santos
-</h1>
+<h1 align="center">Olá, eu sou o Rafael Santos Oliveira! 👋</h1>
+<h3 align="center">Software Engineer | Pesquisador (M.Sc.) em Robótica & IA (UFMG)</h3>
 
-<p align="justify">
-Olá! Sou estudante de Bacharelado em Física na Universidade Federal de Minas Gerais (UFMG). Também sou estagiário em análise de dados na Brain-Trainer Brasil, onde realizo pesquisas no desenvolvimento de hardware e software na área de neurotecnologia.<br>
-Além disso, sou bolsista de iniciação científica no CDTN, onde desenvolvo simulações computacionais utilizando códigos de Monte Carlo e realizo automações utilizando Python. 
-<br>
-Estou sempre em busca de novas oportunidades e desafios que possam contribuir para o meu crescimento profissional e pessoal.
+<p align="center">
+  <a href="https://www.linkedin.com/in/rafaelossantos/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
+---
 
-### Connect with me
+### 👨‍💻 Sobre Mim
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0000FF&color:FFF)](https://www.linkedin.com/in/rafaelossantos/)
+- 🎓 Mestrando em **Ciência da Computação** na Universidade Federal de Minas Gerais (UFMG), pesquisando no laboratório Verlab.
+- 🤖 Minha pesquisa atual é focada em **braços robóticos, modelos VLA (Visual Language Action), robôs autônomos, simulações e Aprendizado por Reforço**.
+- 💻 Atuo como **Software Engineer**, com experiência em desenvolvimento de sistemas, automação e inteligência artificial.
+- ⚛️ Bacharel em **Física** (UFMG), com sólido background em Ciência de Dados aplicada (Brain-Trainer Brasil) e simulações computacionais de Monte Carlo (CDTN).
+- 📝 Autor de artigos científicos publicados na *Applied Radiation and Isotopes* e *Radiation Measurements*.
 
+---
 
-### GitHub Stats
+### 💻 Habilidades e Tecnologias
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelos134&layout=compact&repo=santander-dev-week-2023&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=0000FF&text_color=FFF&border_radius=3&border_color=36123c&icon_color=0000FF&theme=jolly)](https://github.com/rafaelos134/github-readme-stats)
+**Robótica & Inteligência Artificial**
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
+**Desenvolvimento Backend & Infraestrutura**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+---
 
-### 📌 Projetos em Destaque
-#### Lightcurve classification with an LSTM neural network
-This repository contains a project for solving a classification problem of Lightcurves as part of the EAFEXP VI from CBPF.
+### Minhas Contribuições no GitHub
 
-The notebooks can be run on Google Colab.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcoBarroca&repo=VI_EAFEXP_Proj3&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=0000FF&text_color=FFF&border_radius=3&border_color=36123c&icon_color=0000FF&theme=jolly)](https://github.com/MarcoBarroca/VI_EAFEXP_Proj3)
-
-
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaelos134/rafaelos134/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafaelos134/rafaelos134/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rafaelos134/rafaelos134/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
