@@ -37,8 +37,6 @@
 
 ---
 
-### Minhas Contribuições no GitHub
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaelos134/rafaelos134/output/github-contribution-grid-snake-dark.svg">
